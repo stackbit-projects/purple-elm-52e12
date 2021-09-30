@@ -11,7 +11,7 @@ sections:
       - label: Get Started
         url: /docs
         style: primary
-    section_id: 'this '
+    section_id: this website is for watching animes in high qu
   - section_id: features
     type: section_grid
     col_number: three
