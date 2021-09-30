@@ -1,8 +1,7 @@
 ---
 title: anime
 sections:
-  - section_id: hero
-    type: section_hero
+  - type: section_hero
     title: Hero Section
     image: /images/2b2aec97d7afab3b82b855901bf35d9e.jpg
     content: >-
