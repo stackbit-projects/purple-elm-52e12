@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Hero Section
-    image: /images/661a566cedfb136d6c04243e06b0bb3d.jpeg
+    image: /images/2b2aec97d7afab3b82b855901bf35d9e.jpg
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
