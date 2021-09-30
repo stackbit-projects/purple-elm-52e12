@@ -11,6 +11,7 @@ sections:
       - label: Get Started
         url: /docs
         style: primary
+    section_id: welcome to kira
   - section_id: features
     type: section_grid
     col_number: three
