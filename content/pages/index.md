@@ -2,7 +2,7 @@
 title: anime
 sections:
   - type: section_hero
-    title: Hero Section
+    title: welcome to kirani.com
     image: /images/2b2aec97d7afab3b82b855901bf35d9e.jpg
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
